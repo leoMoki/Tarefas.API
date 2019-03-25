@@ -1,0 +1,6 @@
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\bin\Debug\netstandard2.0\Tarefas.Dal.deps.json
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\bin\Debug\netstandard2.0\Tarefas.Dal.dll
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\obj\Debug\netstandard2.0\Tarefas.Dal.csprojAssemblyReference.cache
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\obj\Debug\netstandard2.0\Tarefas.Dal.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\obj\Debug\netstandard2.0\Tarefas.Dal.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\TarefasAPI\Tarefas.Dal\obj\Debug\netstandard2.0\Tarefas.Dal.AssemblyInfo.cs
